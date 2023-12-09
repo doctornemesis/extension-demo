@@ -1,5 +1,5 @@
 export const RHS_URL = 'https://rhs-staging.polygonid.me';
-export const RPC_URL = '';
+export const RPC_URL = 'https://rpc-mumbai.maticvigil.com';
 
 export const defaultEthConnectionConfig =  [{
 	url: RPC_URL,
